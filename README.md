@@ -7,12 +7,12 @@ Bem-vindo à Imersão em Front-End! Este projeto consiste na criação de um clo
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/<seu-usuario>/spotify-clone.git
+   git clone https://github.com/tamiriamfernandes/imersao-alura-front-end.git
    
 2. Abra o arquivo index.html em seu navegador para explorar a versão HTML/CSS/JS.
 Para a versão React, vá para o diretório react-app:
    ```bash
-    cd spotify-clone/react-app
+    cd imersao-alura-front-end/Projeto-Com-React
 
 3. Instale as dependências:
       ```bash
